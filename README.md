@@ -1,2 +1,4 @@
 # Desafio Clone-Netflix
-Desenvolvido com JavaScript/CSS/HTML
+
+##
+Desenvolvido com HTML5/CSS3/JavaScript
